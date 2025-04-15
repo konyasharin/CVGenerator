@@ -1,7 +1,9 @@
 import { FC } from 'react';
 
+import './index.css';
+
 const App: FC = () => {
-  return <>123</>;
+  return <div>123</div>;
 };
 
 export default App;
